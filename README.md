@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome 👋.
+### My name is Vladyslav.
 
-<!--
-**WhiteVax/WhiteVax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+  - I am 27 year old
+  - [I learn Java at Job4j](https://job4j.ru/)☕ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![java](https://img.shields.io/badge/Java-%3E%3D8-orange)
+![maven](https://img.shields.io/badge/Maven-3-red)
+![JUnit](https://img.shields.io/badge/JUnit-%3E%3D4-red)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=WhiteVax&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteVax&layout=compact)](https://github.com/ShamRail/github-readme-stats)
