@@ -3,8 +3,10 @@
 
 About me:
 
-  - I am 27 year old
-  - [I learn Java at Job4j](https://job4j.ru/)☕ 
+- I am 27 year old
+- [I learn Java at Job4j](https://job4j.ru/)☕
+
+Core technologies:
 
 ![java](https://img.shields.io/badge/Java-%3E%3D8-orange)
 ![maven](https://img.shields.io/badge/Maven->=3-red)
