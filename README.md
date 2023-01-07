@@ -28,6 +28,6 @@ Core technologies:
 
 <div align="center" style="margin: 30px 0">
    <a href="https://github.com/WhiteVax/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=WhiteVax&color=DE002D">
+       <img width="120px" src="https://komarev.com/ghpvc/?username=WhiteVax&color=DE002D">
    </a>
 </div>
