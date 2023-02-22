@@ -1,5 +1,5 @@
 ### Welcome 👋.
-### My name is Vladyslav.
+#### My name is Vladyslav.
 
 About me:
 
@@ -8,7 +8,7 @@ About me:
 
 ---
 
-<b>Core technologies:<b>
+#### <b>Core technologies:<b>
 
 > ![java](https://img.shields.io/badge/Java-%3E%3D8-orange)![Maven](https://img.shields.io/badge/Maven-%3E%3D3-red)![Spring](https://img.shields.io/badge/Spring-%3E%3D5-green)
 > ![Mockito](https://img.shields.io/badge/Mockito-%3E%3D4-greeen)
