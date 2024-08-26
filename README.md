@@ -27,7 +27,7 @@ About me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteVax&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/whitevax/badges/small)](https://www.codewars.com/users/whitevax)
+[![codewars](https://www.codewars.com/users/WhiteVax/badges/small)](https://www.codewars.com/users/WhiteVax)
 
 <div align="center" style="margin: 30px 0">
    <a href="https://github.com/WhiteVax/github-profile-views-counter">
