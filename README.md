@@ -57,6 +57,12 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/whitevax?ext=heatmap)
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whitevax/whitevax/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whitevax/whitevax/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whitevax/whitevax/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center" style="margin: 30px 0">
    <a href="https://github.com/WhiteVax/github-profile-views-counter">
        <img width="120px" src="https://komarev.com/ghpvc/?username=WhiteVax&color=DE002D" alt="views">
