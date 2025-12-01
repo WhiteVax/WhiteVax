@@ -8,7 +8,7 @@
 <ul style="color: deepskyblue; font-size: 15px; list-style-type: disc; margin-left: 20px;">
   <li>I'm a developer</li>
   <li>I`m 30 years old</li>
-  <li>I learn Go/Java at Job4j☕</li>
+  <li>I learn Java at Job4j☕</li>
 </ul>
 
 ---
@@ -68,4 +68,5 @@
        <img width="120px" src="https://komarev.com/ghpvc/?username=WhiteVax&color=DE002D" alt="views">
    </a>
 </div>
+
 
